@@ -1,6 +1,6 @@
 ﻿# desafioNLW
  
-![preview](/preview.png)
+![preview](https://raw.githubusercontent.com/abelDv/desafioNLW/main/priview.png)
 
 > Projeto construído em algumas horas baseado na trilha de Desenvolvimento NLW da Rocketseat
 
@@ -11,6 +11,7 @@
 
 - HTML
 - CSS
+- JavaScript
 - Git e Github
 
 ## 💛 Contato
