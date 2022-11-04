@@ -4,7 +4,7 @@
 
 > Projeto construído em algumas horas baseado na trilha de Desenvolvimento NLW da Rocketseat
 
-[🔗 Clique aqui para acessar](https://maykbrito.github.io/nlw-esports-explorer/)
+[🔗 Clique aqui para acessar](https://abeldv.github.io/desafioNLW/)
 
 
 ## 🛠 Tecnologias
