@@ -1,6 +1,6 @@
 ﻿# desafioNLW
  
-![preview](./preview.png)
+![preview](/preview.png)
 
 > Projeto construído em algumas horas baseado na trilha de Desenvolvimento NLW da Rocketseat
 
